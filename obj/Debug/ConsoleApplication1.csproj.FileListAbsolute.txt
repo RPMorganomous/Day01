@@ -1,0 +1,6 @@
+D:\developement\Advent2018\Day01\bin\Debug\ConsoleApplication1.exe
+D:\developement\Advent2018\Day01\bin\Debug\ConsoleApplication1.pdb
+D:\developement\Advent2018\Day01\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+D:\developement\Advent2018\Day01\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\developement\Advent2018\Day01\obj\Debug\ConsoleApplication1.exe
+D:\developement\Advent2018\Day01\obj\Debug\ConsoleApplication1.pdb

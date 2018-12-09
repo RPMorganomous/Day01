@@ -9,6 +9,7 @@
       <e p="Day01.sln" t="IncludeFlat" />
       <e p="files" t="Include">
         <e p="day01input.txt" t="Include" />
+        <e p="short.txt" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />

@@ -10,8 +10,12 @@ namespace ConsoleApplication1
 		public static void Main(string[] args)
 		{
 			Console.WriteLine("devan should play with me");
+
+			//string filename;
 			
-			StreamReader myReader = new StreamReader("D:\\developement\\Advent2018\\Day01\\files\\day01input.txt");
+			//StreamReader myReader = new StreamReader("D:\\developement\\Advent2018\\Day01\\files\\day01input.txt");
+			StreamReader myReader = OpenFile("D:\\developement\\Advent2018\\Day01\\files\\short.txt");
+			
 			string line = "";
 			int num = 0;
 			List<int> theList = new List<int>();
@@ -38,7 +42,8 @@ namespace ConsoleApplication1
 					//line = "";	
 					//alreadyInTheList = false;				
 				}
-				myReader = new StreamReader("D:\\developement\\Advent2018\\Day01\\files\\day01input.txt");
+				myReader.Close();
+				myReader = new StreamReader("D:\\developement\\Advent2018\\Day01\\files\\short.txt");
 				line = "";
 			}
 
@@ -46,6 +51,12 @@ namespace ConsoleApplication1
 			Console.WriteLine("done = " + num + line);
 			//Console.ReadLine();
 			
+		}
+
+		public static StreamReader OpenFile(string fileName)
+		{
+			StreamReader myReader = new StreamReader(fileName);
+			return myReader;
 		}
 	}
 }
