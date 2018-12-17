@@ -12,9 +12,21 @@ namespace ConsoleApplication1
 			Console.WriteLine("devan should play with me");
 
 			//string filename;
-			
-			//StreamReader myReader = new StreamReader("D:\\developement\\Advent2018\\Day01\\files\\day01input.txt");
-			StreamReader myReader = OpenFile("D:\\developement\\Advent2018\\Day01\\files\\short.txt");
+
+			Day01();
+
+		}
+
+		public static StreamReader OpenFile(string fileName)
+		{
+			StreamReader myReader = new StreamReader(fileName);
+			return myReader;
+		}
+
+		public static void Day01()
+		{
+			StreamReader myReader = new StreamReader("D:\\developement\\Advent2018\\Day01\\files\\day01input.txt");
+			//StreamReader myReader = OpenFile("D:\\developement\\Advent2018\\Day01\\files\\short.txt");
 			
 			string line = "";
 			int num = 0;
@@ -27,18 +39,18 @@ namespace ConsoleApplication1
 				{
 					line = myReader.ReadLine();
 					if (line != null)
-						{
+					{
 						Console.WriteLine(line);
 						num = num + Convert.ToInt32(line);
 						Console.WriteLine(num);
 						alreadyInTheList = theList.Contains(num);
 						if (alreadyInTheList)
-							{
-								Console.WriteLine("alreadyInTheList done = " + num + line);
-								break;
-							}
-						theList.Add(num);
+						{
+							Console.WriteLine("alreadyInTheList done = " + num + line);
+							break;
 						}
+						theList.Add(num);
+					}
 					//line = "";	
 					//alreadyInTheList = false;				
 				}
@@ -50,13 +62,6 @@ namespace ConsoleApplication1
 			myReader.Close();
 			Console.WriteLine("done = " + num + line);
 			//Console.ReadLine();
-			
-		}
-
-		public static StreamReader OpenFile(string fileName)
-		{
-			StreamReader myReader = new StreamReader(fileName);
-			return myReader;
 		}
 	}
 }

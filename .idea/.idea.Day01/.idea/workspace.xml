@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbe741db-6682-476d-836b-67641e99bfdd" name="Default Changelist" comment="" />
-    <list id="4a34f0c5-87cc-4114-afa9-a83cd028b5c6" name="works, needs refactoring" comment="">
-      <change afterPath="$PROJECT_DIR$/files/short.txt" afterDir="false" />
+    <list default="true" id="dbe741db-6682-476d-836b-67641e99bfdd" name="Default Changelist" comment="works, needs refactoring">
+      <change afterPath="$PROJECT_DIR$/files/day02input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day02test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Day01/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Day01/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Day01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Day01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Day01/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Day01/riderModule.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApplication1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication1.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Day01.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/ConsoleApplication1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/ConsoleApplication1.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/ConsoleApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/ConsoleApplication1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/day01input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/files/day01input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/ConsoleApplication1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/ConsoleApplication1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/ConsoleApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/ConsoleApplication1.pdb" afterDir="false" />
     </list>
+    <list id="4a34f0c5-87cc-4114-afa9-a83cd028b5c6" name="works, needs refactoring" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,65 +26,123 @@
     <session id="-1749701934">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="4" />
-          <entry key="txt" value="4" />
+          <entry key="cs" value="5" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="4" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="C#" value="5" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="628" />
+          <entry key="cs" value="2802" />
           <entry key="txt" value="129" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="628" />
+          <entry key="C#" value="2802" />
           <entry key="PLAIN_TEXT" value="129" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
           <entry key="git.branch.checkout.local" value="1" />
+          <entry key="git.branch.rebase" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+            <state relative-caret-position="405">
+              <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="29" />
               <folding>
-                <marker date="1544325176215" expanded="false" signature="6:102" ph="..." />
-                <marker date="1544325176215" expanded="true" signature="133:1482" ph="{...}" />
-                <marker date="1544325176215" expanded="true" signature="159:1480" ph="{...}" />
-                <marker date="1544325176215" expanded="true" signature="203:1338" ph="{...}" />
-                <marker date="1544325176215" expanded="true" signature="263:394" ph="/* string filename; ... */" />
-                <marker date="1544325176215" expanded="true" signature="632:1237" ph="{...}" />
-                <marker date="1544325176215" expanded="true" signature="662:1105" ph="{...}" />
-                <marker date="1544325176215" expanded="true" signature="724:1043" ph="{...}" />
-                <marker date="1544325176215" expanded="true" signature="910:1011" ph="{...}" />
-                <marker date="1544325176215" expanded="true" signature="1049:1099" ph="/* line = &quot;&quot;; ... */" />
-                <marker date="1544325176215" expanded="true" signature="1394:1477" ph="{...}" />
+                <marker date="1544913959424" expanded="false" signature="6:102" ph="..." />
+                <marker date="1544913959424" expanded="true" signature="159:1518" ph="{...}" />
+                <marker date="1544913959424" expanded="true" signature="203:299" ph="{...}" />
+                <marker date="1544913959424" expanded="true" signature="355:438" ph="{...}" />
+                <marker date="1544913959424" expanded="true" signature="468:1515" ph="{...}" />
+                <marker date="1544913959424" expanded="true" signature="819:1418" ph="{...}" />
+                <marker date="1544913959424" expanded="true" signature="849:1286" ph="{...}" />
+                <marker date="1544913959424" expanded="true" signature="911:1224" ph="{...}" />
+                <marker date="1544913959424" expanded="true" signature="1096:1193" ph="{...}" />
+                <marker date="1544913959424" expanded="true" signature="1230:1280" ph="/* line = &quot;&quot;; ... */" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Day02/AdventDay02/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="84" column="37" lean-forward="true" selection-start-line="84" selection-start-column="37" selection-end-line="84" selection-end-column="37" />
+              <folding>
+                <marker date="1545009383373" expanded="false" signature="6:219" ph="..." />
+                <marker date="1545009383373" expanded="true" signature="242:7328" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="271:7326" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="331:725" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="422:690" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="490:556" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="610:676" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="781:3133" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="1398:1527" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="1628:3055" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="1756:3040" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="1892:2257" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="1985:2110" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="2139:2235" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="2299:2440" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="2635:3001" ph="/* numOfDifferences = CompareStrings(firstLineOfChars, nextLineOfChars); ... */" />
+                <marker date="1545009383373" expanded="true" signature="3233:4254" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="3374:3432" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="3603:3674" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="3721:3792" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="3856:4062" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="3942:4048" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="4108:4166" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="4183:4240" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="4314:7320" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="4970:7036" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="5178:7021" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="5262:6477" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="5378:6391" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="5481:5859" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="5582:5829" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="5906:6008" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="6055:6156" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="6534:6653" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="6689:6806" ph="{...}" />
+                <marker date="1545009383373" expanded="true" signature="7092:7218" ph="/* var text = &quot;wooooooooooow happpppppppy&quot;; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/day02test.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/day02input.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -99,6 +162,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Day02/AdventDay02/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://D:/Users/devan/RiderProjects/Advent2018/Day01/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -107,6 +171,7 @@
         <option value="$PROJECT_DIR$/files/short.txt" />
         <option value="$PROJECT_DIR$/files/day01input.txt" />
         <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/../Day02/AdventDay02/Program.cs" />
       </list>
     </option>
   </component>
@@ -117,9 +182,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -136,13 +202,19 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Day01" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ConsoleApplication1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AdventDay02" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Day01" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ConsoleApplication1" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="files" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AdventDay02" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Day01" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AdventDay02" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -156,7 +228,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/files/short.txt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/files/day02test.txt" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -170,7 +242,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.AdventDay02">
+    <configuration name="AdventDay02" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../Day02/AdventDay02/bin/Debug/AdventDay02.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Day02/AdventDay02/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../Day02/AdventDay02/AdventDay02.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/ConsoleApplication1.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -189,6 +279,15 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.AdventDay02" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.AdventDay02" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -203,7 +302,9 @@
       <updated>1544274282653</updated>
       <workItem from="1544274284497" duration="1187000" />
       <workItem from="1544279837750" duration="6710000" />
-      <workItem from="1544323454856" duration="2063000" />
+      <workItem from="1544323454856" duration="2889000" />
+      <workItem from="1544913537099" duration="9274000" />
+      <workItem from="1545001706782" duration="7418000" />
     </task>
     <task id="LOCAL-00001" summary="reading values and printing to console">
       <created>1544274984474</created>
@@ -237,7 +338,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9960000" />
+    <option name="totallyTimeSpent" value="27478000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -252,19 +353,19 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18763557" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4197397" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.35249457" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.06290673" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.329718" />
@@ -356,20 +457,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        <state relative-caret-position="405">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="29" />
           <folding>
-            <marker date="1544325176215" expanded="false" signature="6:102" ph="..." />
-            <marker date="1544325176215" expanded="true" signature="133:1482" ph="{...}" />
-            <marker date="1544325176215" expanded="true" signature="159:1480" ph="{...}" />
-            <marker date="1544325176215" expanded="true" signature="203:1338" ph="{...}" />
-            <marker date="1544325176215" expanded="true" signature="263:394" ph="/* string filename; ... */" />
-            <marker date="1544325176215" expanded="true" signature="632:1237" ph="{...}" />
-            <marker date="1544325176215" expanded="true" signature="662:1105" ph="{...}" />
-            <marker date="1544325176215" expanded="true" signature="724:1043" ph="{...}" />
-            <marker date="1544325176215" expanded="true" signature="910:1011" ph="{...}" />
-            <marker date="1544325176215" expanded="true" signature="1049:1099" ph="/* line = &quot;&quot;; ... */" />
-            <marker date="1544325176215" expanded="true" signature="1394:1477" ph="{...}" />
+            <marker date="1544913959424" expanded="false" signature="6:102" ph="..." />
+            <marker date="1544913959424" expanded="true" signature="159:1518" ph="{...}" />
+            <marker date="1544913959424" expanded="true" signature="203:299" ph="{...}" />
+            <marker date="1544913959424" expanded="true" signature="355:438" ph="{...}" />
+            <marker date="1544913959424" expanded="true" signature="468:1515" ph="{...}" />
+            <marker date="1544913959424" expanded="true" signature="819:1418" ph="{...}" />
+            <marker date="1544913959424" expanded="true" signature="849:1286" ph="{...}" />
+            <marker date="1544913959424" expanded="true" signature="911:1224" ph="{...}" />
+            <marker date="1544913959424" expanded="true" signature="1096:1193" ph="{...}" />
+            <marker date="1544913959424" expanded="true" signature="1230:1280" ph="/* line = &quot;&quot;; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/day02test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/day02input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Day02/AdventDay02/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="84" column="37" lean-forward="true" selection-start-line="84" selection-start-column="37" selection-end-line="84" selection-end-column="37" />
+          <folding>
+            <marker date="1545009383373" expanded="false" signature="6:219" ph="..." />
+            <marker date="1545009383373" expanded="true" signature="242:7328" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="271:7326" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="331:725" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="422:690" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="490:556" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="610:676" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="781:3133" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="1398:1527" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="1628:3055" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="1756:3040" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="1892:2257" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="1985:2110" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="2139:2235" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="2299:2440" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="2635:3001" ph="/* numOfDifferences = CompareStrings(firstLineOfChars, nextLineOfChars); ... */" />
+            <marker date="1545009383373" expanded="true" signature="3233:4254" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="3374:3432" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="3603:3674" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="3721:3792" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="3856:4062" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="3942:4048" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="4108:4166" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="4183:4240" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="4314:7320" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="4970:7036" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="5178:7021" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="5262:6477" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="5378:6391" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="5481:5859" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="5582:5829" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="5906:6008" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="6055:6156" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="6534:6653" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="6689:6806" ph="{...}" />
+            <marker date="1545009383373" expanded="true" signature="7092:7218" ph="/* var text = &quot;wooooooooooow happpppppppy&quot;; ... */" />
           </folding>
         </state>
       </provider>
